@@ -7,4 +7,4 @@ Na pasta "Matriz" se encontra o código referente a grafos criados com a matriz 
 ### Alunos:
 
 * 16/0016428 - Paulo Victor de Menezes Lopes
-* 16/00seila - João Pedro Mota Jardim
+* 16/0031982 - João Pedro Mota Jardim
